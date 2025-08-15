@@ -9,6 +9,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LamarNK&theme=onedark" alt="Trophies"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LamarNK&show_icons=true&theme=dracula" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamarNK&theme=onedark" alt="Streak Stats"/>
 </p>

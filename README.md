@@ -3,4 +3,4 @@
   🐾═════════════════════🐾
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=LamarNK&theme=onedark)
